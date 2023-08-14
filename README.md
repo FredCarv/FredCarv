@@ -21,8 +21,8 @@ My name is Frederico Carvalho, I'm a software developer in constant improvement.
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a>
-  <a href="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/python-logo">
-    <img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png"/>
+  <a href="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png">
+    <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/python-logo"/>
   </a>
 </p>
   
